@@ -1,4 +1,4 @@
-namespace oop_sample.SCM.Domain.Model.ValueObjects;
+namespace ACME.OOP.SCM.Domain.Model.ValueObjects;
 /// <summary>
 /// Represent a supplier a identifier value object in the supply chain management (SCM) bounded context.
 /// </summary>
